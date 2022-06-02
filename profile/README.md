@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Study Repo for Sohn, Lee, Yoo
+
 <!--
 
 **Here are some ideas to get you started:**
